@@ -1,0 +1,36 @@
+.colone{
+    font-weight: bold;
+}
+
+table{
+    background-color: teal;
+}
+
+.table{
+    margin-top: 5%
+}
+
+td{
+    color: white;
+    padding: 15px;
+    border: 2px dashed wheat;
+}
+
+th{
+    padding: 15px;
+}
+
+h1{
+    text-align: center
+}
+
+body{
+    background-color: aquamarine
+}
+
+.pics
+{
+    width:20%;
+    height:20%;
+    margin-left: 4%
+}
